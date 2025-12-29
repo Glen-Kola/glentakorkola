@@ -33,23 +33,50 @@
 
 ---
 
+
 ### 𝕷𝖎𝖛𝖊 𝕾𝖙𝖆𝖙𝖘
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=glentakorkola&theme=dark&background=000000&border=20F7A3&stroke=20F7A3&ring=20F7A3&fire=20F7A3&currStreakNum=20F7A3&sideNums=20F7A3&currStreakLabel=20F7A3&sideLabels=20F7A3&dates=20F7A3)](https://git.io/streak-stats)
 
-</div>
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=glentakorkola&theme=dark&background=000000&border=20F7A3&fire=20F7A3&currStreakNum=20F7A3&sideNums=20F7A3&currStreakLabel=20F7A3&sideLabels=20F7A3&dates=20F7A3)](https://git.io/streak-stats)
-
+<!-- GitHub Activity Graph (KEEPING THIS - IT WORKS!) -->
+[![Glen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Glen-Kola&theme=github-compact&bg_color=0d1117&color=20F7A3&line=20F7A3&point=FFFFFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <div align="center">
 
-![Matrix Code Stats](https://github-readme-stats.vercel.app/api?username=glentakorkola&show_icons=true&theme=dark&bg_color=000000&title_color=20F7A3&text_color=FFFFFF&icon_color=20F7A3&include_all_commits=true&custom_title=𝙲𝚘𝚍𝚎+𝙼𝚊𝚝𝚛𝚒𝚡+𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢)
+<!-- GitHub Profile Summary Cards -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Glen-Kola&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+<!-- Metrics Display -->
+![Metrics](https://metrics.lecoq.io/Glen-Kola?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&config.timezone=America%2FNew_York&config.twemoji=1&config.display=large)
+
+</div>
+
+<div align="center">
+
+<!-- Productive Time & Language Stats -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Glen-Kola&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glen-Kola&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Stats using GitHub-Readme-Stats alternative endpoint -->
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Glen-Kola&show_icons=true&theme=dark&bg_color=0d1117&title_color=20F7A3&text_color=FFFFFF&icon_color=20F7A3&border_color=20F7A3&include_all_commits=true&count_private=true)
+
+</div>
+
+<div align="center">
+
+<!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=Glen-Kola&color=20F7A3&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/Glen-Kola?label=Followers&style=for-the-badge&color=20F7A3&labelColor=0d1117)
 
 </div>
 
@@ -75,7 +102,7 @@
 
 <div align="center">
   
-[![React 3D Metaverse](https://img.shields.io/badge/🫆-Hop_On_The_Youmeverse_Project-20F7A3?style=for-the-badge)](https://youmeverse.gdaafrica.com)
-[![Digital Red Pill](https://img.shields.io/badge/💊-Take_Red_Pill-FF0000?style=for-the-badge)](mailto:halton@gdaafrica.com)
+[![React 3D Metaverse](https://img.shields.io/badge/🫆-Hop_On_The_Youmeverse_Project-20F7A3?style=for-the-badge)](https://gdaafrica.web.app)
+[![Digital Red Pill](https://img.shields.io/badge/💊-Take_Red_Pill-FF0000?style=for-the-badge)](https://glenhalton.com)
 
 </div>
