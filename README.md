@@ -1,6 +1,13 @@
 # <div align="center"> 🥷🏾 Hi, I'm Glenhalton Takor</div>
 ### <div align="center">`𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 Architech` | `𝐖𝐞𝐛𝟑 𝐄𝐯𝐚𝐧𝐠𝐞𝐥𝐢𝐬𝐭` | `AI x Web 3D x Web3`</div>
 
+<div align="center">
+
+<!-- GitHub Stats using GitHub-Readme-Stats alternative endpoint -->
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Glen-Kola&show_icons=true&theme=dark&bg_color=0d1117&title_color=20F7A3&text_color=FFFFFF&icon_color=20F7A3&border_color=20F7A3&include_all_commits=true&count_private=true)
+
+</div>
+
 ---
 
 <div align="center">
@@ -10,6 +17,13 @@
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+</div>
+
+<div align="center">
+
+<!-- Metrics Display -->
+![Metrics](https://metrics.lecoq.io/Glen-Kola?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&config.timezone=America%2FNew_York&config.twemoji=1&config.display=large)
 
 </div>
 
@@ -31,6 +45,13 @@
 
 </div>
 
+<div align="center">
+
+<!-- Language Stats -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glen-Kola&theme=github_dark)
+
+</div>
+
 ---
 
 
@@ -38,7 +59,7 @@
 
 <div align="center">
 
-<!-- GitHub Activity Graph (KEEPING THIS - IT WORKS!) -->
+<!-- GitHub Activity Graph -->
 [![Glen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Glen-Kola&theme=github-compact&bg_color=0d1117&color=20F7A3&line=20F7A3&point=FFFFFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -52,23 +73,8 @@
 
 <div align="center">
 
-<!-- Metrics Display -->
-![Metrics](https://metrics.lecoq.io/Glen-Kola?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&config.timezone=America%2FNew_York&config.twemoji=1&config.display=large)
-
-</div>
-
-<div align="center">
-
-<!-- Productive Time & Language Stats -->
+<!-- Productive Time-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Glen-Kola&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glen-Kola&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Stats using GitHub-Readme-Stats alternative endpoint -->
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Glen-Kola&show_icons=true&theme=dark&bg_color=0d1117&title_color=20F7A3&text_color=FFFFFF&icon_color=20F7A3&border_color=20F7A3&include_all_commits=true&count_private=true)
 
 </div>
 
